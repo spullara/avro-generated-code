@@ -1,0 +1,7 @@
+protocol Annoying {
+  record Record {
+    string stringfield;
+    map<string> mapfield;
+    array<string> arrayfield;
+  }
+}
